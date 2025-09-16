@@ -1,0 +1,4 @@
+# Ignore environment files
+backend/.env
+__pycache__/
+*.pyc
