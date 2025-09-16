@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "GPT-OSS Chatbot",
+  "version": "1.0",
+  "description": "Chat with Hugging Face GPT-OSS model through FastAPI backend",
+  "permissions": ["storage"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
